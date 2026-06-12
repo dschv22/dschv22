@@ -112,7 +112,7 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ## 👾 Créditos
 
-Desarrollado con ❤️ y mucho café por **[@santisonia06](https://github.com/dschv22)**  
+Desarrollado con ❤️ y mucho café por **[@dschv22](https://github.com/dschv22)**  
 Estudiante de Ingeniería de Sistemas
 Powered by: Ingeniería de Sistemas - 🎓 *Loading...*
 
